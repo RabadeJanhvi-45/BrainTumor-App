@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897044427983",
+    "project_id": "braintumorapp",
+    "storage_bucket": "braintumorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897044427983:android:eec5f79cf7c4a88a5e73ba",
+        "android_client_info": {
+          "package_name": "com.example.braintumorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897044427983-giqp9mgls663bji60gafdbk3jpud7jpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDpS8rv7Z0ty1MsU5SsKP0HTmMWDjTJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897044427983-giqp9mgls663bji60gafdbk3jpud7jpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
